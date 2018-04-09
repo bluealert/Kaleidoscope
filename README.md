@@ -1,7 +1,7 @@
 # Kaleidoscope
 LLVM Tutorial
 
-## Install LLVM on Mac
+#### Install LLVM on Mac
 
 ```
 brew install llvm@5
